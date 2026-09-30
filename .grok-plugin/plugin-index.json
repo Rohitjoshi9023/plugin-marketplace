@@ -1430,6 +1430,36 @@
           }
         ]
       }
+    },
+    "yourgpt": {
+      "sha": "df8a6c5079252d6b744b7f4271730144bf7cee9d",
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "yourgpt",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "agent-tuning",
+            "description": "Improve a YourGPT chatbot's answers by writing a persona from the user's business need, testing it in the playground ac…"
+          },
+          {
+            "name": "fix-knowledge-gap",
+            "description": "Fix a wrong or missing chatbot answer by checking what the YourGPT project knows, adding or correcting the FAQ, and con…"
+          },
+          {
+            "name": "knowledge-audit",
+            "description": "Check YourGPT training status and search project knowledge to investigate missing or outdated support answers. Use when…"
+          },
+          {
+            "name": "support-review",
+            "description": "Review YourGPT support conversations and analytics to summarize resolution, sentiment, and recurring customer issues. U…"
+          }
+        ]
+      }
     }
   }
 }

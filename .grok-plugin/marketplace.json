@@ -382,6 +382,31 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "yourgpt",
+      "description": "Review YourGPT customer conversations and support analytics, audit project knowledge, fix FAQ answer gaps, and test agent personas and models through authenticated MCP workflows.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/YourGPT/yourgpt-grok-plugin.git",
+        "sha": "df8a6c5079252d6b744b7f4271730144bf7cee9d"
+      },
+      "homepage": "https://yourgpt.ai",
+      "version": "0.1.0",
+      "author": {
+        "name": "YourGPT",
+        "url": "https://yourgpt.ai"
+      },
+      "keywords": [
+        "yourgpt",
+        "yourgpt support",
+        "yourgpt knowledge",
+        "yourgpt chatbot"
+      ],
+      "domains": [
+        "yourgpt.ai"
+      ]
     }
   ]
 }
